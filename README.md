@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languges
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me mail me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 AKSHAYKUMAR1505/AKSHAYKUMAR1505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
