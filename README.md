@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a  AI - DS Student at AMRITA SCHOOL OF ENGINEERING,Bangalore<br>,I would to like collabarate on learning new skills related to coding. 
+I am a  AI - DS Student at AMRITA SCHOOL OF ENGINEERING,Bangalore<br> I would to like collaborate on learning new skills related to coding. 
 
 
 ## 🌐 Socials:
